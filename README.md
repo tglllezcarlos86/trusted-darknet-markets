@@ -102,3 +102,5 @@ To access darknet markets, use the official onion URLs. Always ensure you’re u
 
 Identifying and using trusted darknet markets is crucial. Prioritize security, verify information, and always use escrow. Stay safe!
 Plase contribute and add stars to this repo.
+
+Update:  04 August 2025 link is operational and live
